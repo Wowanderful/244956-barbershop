@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+ 	<link href="" rel="stylesheet">       
+	<title>Описание товара</title>
+</head>
+
+<body>
+	<header class="page-header">
+		<nav class="header-navigation">
+			<a class="header-logo" href="index.html">
+				<img src="" alt="Логотип Барбершопа Бородинский">
+			</a>
+			<ul class="site-navigation">
+				<li><a href="">Информация</a></li>
+				<li><a href="">Новости</a></li>
+				<li><a href="">Прайс-лист</a></li>
+				<li><a href="" class="site-navigation-active">Магазин</a></li>
+				<li><a href="">Контакты</a></li>
+				<li><a href="">Вход</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<main class="container">
+		<h1 class="page-title">Набор для путешествий "Baxter of California"</h1>
+
+		<ul class="breadcrumbs">
+			<li><a href="index.html">Главная</a></li>
+			<li><a href="catalog.html">Магазин</a></li>
+			<li><a href="#">Средства для ухода</a></li>
+			<li><a class="breadcrumbs-current">Набор для путешествий "Baxter of California"</a></li>
+		</ul>
+
+		<section class="product-photos">
+			<h2 class="invisible">Изображение товара</h2>
+			<p><img src="img/product-big.jpg" width="460" height="498" alt="Фото всего набора"></p>
+			<ul class="product-photo-preview">
+			<li><img src="img/product-small-1.jpg" width="140" height="149" alt="Фото в анфас"></li>
+			<li><img src="img/product-small-2.jpg" width="140" height="149" alt="Фото в профиль"></li>
+			<li><img src="img/product-small-3.jpg" width="140" height="149" alt="Фото отдельной части"></li>
+		</ul>
+		</section>
+
+		<section class="product-info">
+			<h2 class="invisible">Описание товара</h2>
+			<p class="product-availability">Есть в наличии</p>
+			<p class="product-article">Артикул: dexter-ae</p>
+			<p class="product-text">Travel Kit - необходимый аксессуар во время любого путешествия. В аккуратной кожанной сумке находится все, что нужно для бритья и ухода за кожей во время рабочей поездки или отдыха: средство для умывания, увлажняющий крем, крем для бритья, крем после бритья, шампунь. Набор также может стать отличным подарком.</p>
+			<p class="catalog-item-price">
+						<b>2 900 Р</b>
+						<a class="button" href="#">Купить</a>
+					</p>
+			<h3>В набор входят:</h3>
+			<ul>
+				<li>Средство для умывания (50мл)</li>
+				<li>Увлажняющий крем (50мл)</li>
+				<li>Крем для бритья (50мл)</li>
+				<li>Крем после бритья, шампунь (50мл)</li>
+				<li>Удобная кожаная косметичка</li>
+			</ul>
+		</section>
+	</main>
+
+		<footer class="main-footer">
+			<p class="footer-contacts">
+				Баребершоп "Бородинский"<br>
+				Адрес: г. Санкт-Петербург, Б. Конюшенная, д. 19/8<br>
+				<a href="map.html">Как нас найти?</a><br>
+				Телефон: +7 (812) 666-02-66
+			</p>
+			<div class="footer-social">
+				<b>Давайте дружить!</b>
+				<ul>
+					<li><a class="social-button" href="#">Вконтакте</a></li>
+					<li><a class="social-button" href="#">Фейбук</a></li>
+					<li><a class="social-button" href="#">Инстаграм</a></li>
+				</ul>
+			</div>
+			<p class="copyright">
+				<b>Разработано:</b><a class="button" href="htmlacademy.ru">HTML Academy</a>
+			</p>
+		</footer>
+
+	</body>
+	</html>
+
+
+
+
+
