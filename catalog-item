@@ -10,7 +10,7 @@
 	<header class="page-header">
 		<nav class="header-navigation">
 			<a class="header-logo" href="index.html">
-				<img src="" alt="Логотип Барбершопа Бородинский">
+				<img src="img/svg/logo.svg" alt="Логотип Барбершопа Бородинский">
 			</a>
 			<ul class="site-navigation">
 				<li><a href="">Информация</a></li>
@@ -18,7 +18,7 @@
 				<li><a href="">Прайс-лист</a></li>
 				<li><a href="" class="site-navigation-active">Магазин</a></li>
 				<li><a href="">Контакты</a></li>
-				<li><a href="">Вход</a></li>
+				<li><a href=""><img src="img/svg/login.svg">Вход</a></li>
 			</ul>
 		</nav>
 	</header>
@@ -35,11 +35,11 @@
 
 		<section class="product-photos">
 			<h2 class="invisible">Изображение товара</h2>
-			<p><img src="img/product-big.jpg" width="460" height="498" alt="Фото всего набора"></p>
+			<p><img src="img/shop-item1.jpg" width="460" height="498" alt="Фото всего набора"></p>
 			<ul class="product-photo-preview">
-			<li><img src="img/product-small-1.jpg" width="140" height="149" alt="Фото в анфас"></li>
-			<li><img src="img/product-small-2.jpg" width="140" height="149" alt="Фото в профиль"></li>
-			<li><img src="img/product-small-3.jpg" width="140" height="149" alt="Фото отдельной части"></li>
+			<li><img src="img/shop-item2.jpg" width="140" height="149" alt="Фото в анфас"></li>
+			<li><img src="img/shop-item3.jpg" width="140" height="149" alt="Фото в профиль"></li>
+			<li><img src="img/shop-item1.jpg" width="140" height="149" alt="Фото отдельной части"></li>
 		</ul>
 		</section>
 
@@ -73,9 +73,9 @@
 			<div class="footer-social">
 				<b>Давайте дружить!</b>
 				<ul>
-					<li><a class="social-button" href="#">Вконтакте</a></li>
-					<li><a class="social-button" href="#">Фейбук</a></li>
-					<li><a class="social-button" href="#">Инстаграм</a></li>
+					<li><a class="social-button" href="#"><img src="img/svg/vk.svg"></a></li>
+					<li><a class="social-button" href="#"><img src="img/svg/facebook.svg"></a></li>
+					<li><a class="social-button" href="#"><img src="img/svg/instagram.svg"></a></li>
 				</ul>
 			</div>
 			<p class="copyright">
